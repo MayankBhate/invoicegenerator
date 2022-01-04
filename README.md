@@ -1,8 +1,8 @@
 # Automated Invoice Generator
-This is a python program which will read data from a spreadsheet and generate an invoice with the same. 
-Prerequisites: 
+This is a python program which will read data from a spreadsheet and generate an invoice with the same. <br />
+Prerequisites: <br />
 A] Enabling API access:
-   1) Go to https://console.developers.google.com
+   1) Go to https://console.developers.google.com <br />
    2) Search and enable Google Drive API and Sheets API.
 B] Allowing access through a service account : https://docs.gspread.org/en/latest/oauth2.html#for-bots-using-service-account
 C] Creating an app password: 
